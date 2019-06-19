@@ -1,0 +1,14 @@
+C:\Users\EfrainMejiasC\Documents\GitHub\JobScheduler\JobScheduler\JobScheduler\bin\Debug\netcoreapp2.1\JobScheduler.deps.json
+C:\Users\EfrainMejiasC\Documents\GitHub\JobScheduler\JobScheduler\JobScheduler\bin\Debug\netcoreapp2.1\JobScheduler.runtimeconfig.json
+C:\Users\EfrainMejiasC\Documents\GitHub\JobScheduler\JobScheduler\JobScheduler\bin\Debug\netcoreapp2.1\JobScheduler.runtimeconfig.dev.json
+C:\Users\EfrainMejiasC\Documents\GitHub\JobScheduler\JobScheduler\JobScheduler\bin\Debug\netcoreapp2.1\JobScheduler.dll
+C:\Users\EfrainMejiasC\Documents\GitHub\JobScheduler\JobScheduler\JobScheduler\obj\Debug\netcoreapp2.1\JobScheduler.csprojAssemblyReference.cache
+C:\Users\EfrainMejiasC\Documents\GitHub\JobScheduler\JobScheduler\JobScheduler\obj\Debug\netcoreapp2.1\JobScheduler.csproj.CoreCompileInputs.cache
+C:\Users\EfrainMejiasC\Documents\GitHub\JobScheduler\JobScheduler\JobScheduler\obj\Debug\netcoreapp2.1\JobScheduler.RazorAssemblyInfo.cache
+C:\Users\EfrainMejiasC\Documents\GitHub\JobScheduler\JobScheduler\JobScheduler\obj\Debug\netcoreapp2.1\JobScheduler.RazorAssemblyInfo.cs
+C:\Users\EfrainMejiasC\Documents\GitHub\JobScheduler\JobScheduler\JobScheduler\obj\Debug\netcoreapp2.1\JobScheduler.AssemblyInfoInputs.cache
+C:\Users\EfrainMejiasC\Documents\GitHub\JobScheduler\JobScheduler\JobScheduler\obj\Debug\netcoreapp2.1\JobScheduler.AssemblyInfo.cs
+C:\Users\EfrainMejiasC\Documents\GitHub\JobScheduler\JobScheduler\JobScheduler\obj\Debug\netcoreapp2.1\JobScheduler.RazorTargetAssemblyInfo.cache
+C:\Users\EfrainMejiasC\Documents\GitHub\JobScheduler\JobScheduler\JobScheduler\bin\Debug\netcoreapp2.1\JobScheduler.pdb
+C:\Users\EfrainMejiasC\Documents\GitHub\JobScheduler\JobScheduler\JobScheduler\obj\Debug\netcoreapp2.1\JobScheduler.dll
+C:\Users\EfrainMejiasC\Documents\GitHub\JobScheduler\JobScheduler\JobScheduler\obj\Debug\netcoreapp2.1\JobScheduler.pdb
